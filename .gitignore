@@ -1,0 +1,11 @@
+.env
+*.log
+.log
+.venv
+.idea
+
+fonts/*
+*.zip
+logs/*
+
+*.pyc
